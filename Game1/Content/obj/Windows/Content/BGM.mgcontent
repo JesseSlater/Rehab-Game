@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/zound/Downloads/GameRoot/GameRoot/Game1/Content/BGM.mp3</SourceFile>
+  <SourceTime>2018-09-09T13:36:52.1224921-05:00</SourceTime>
+  <DestFile>C:/Users/zound/Downloads/GameRoot/GameRoot/Game1/Content/bin/Windows/Content/BGM.xnb</DestFile>
+  <DestTime>2019-02-28T11:28:25.5401249-06:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T10:35:54-06:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T10:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/zound/Downloads/GameRoot/GameRoot/Game1/Content/bin/Windows/Content/BGM.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

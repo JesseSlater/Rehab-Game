@@ -1,0 +1,28 @@
+﻿'Game1.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Cannot find or open the PDB file.
+'Game1.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\Labuser\Documents\MonoGameMothMan\GameRoot\Game1\bin\Windows\x86\Debug\Game1.exe'. Symbols loaded.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Users\Labuser\Documents\MonoGameMothMan\GameRoot\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll'. Module was built without symbols.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Cannot find or open the PDB file.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Cannot find or open the PDB file.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Cannot find or open the PDB file.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Cannot find or open the PDB file.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Cannot find or open the PDB file.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Cannot find or open the PDB file.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Users\Labuser\Documents\MonoGameMothMan\GameRoot\Game1\bin\Windows\x86\Debug\SharpDX.dll'. Cannot find or open the PDB file.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Users\Labuser\Documents\MonoGameMothMan\GameRoot\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll'. Cannot find or open the PDB file.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Users\Labuser\Documents\MonoGameMothMan\GameRoot\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll'. Cannot find or open the PDB file.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.dll'. Cannot find or open the PDB file.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Users\Labuser\Documents\MonoGameMothMan\GameRoot\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll'. Cannot find or open the PDB file.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Users\Labuser\Documents\MonoGameMothMan\GameRoot\Game1\bin\Windows\x86\Debug\Aether.Physics2D.dll'. Cannot find or open the PDB file.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Users\Labuser\Documents\MonoGameMothMan\GameRoot\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll'. Cannot find or open the PDB file.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Users\Labuser\Documents\MonoGameMothMan\GameRoot\Game1\bin\Windows\x86\Debug\Aether.Physics2D.Diagnostics.dll'. Cannot find or open the PDB file.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Users\Labuser\Documents\MonoGameMothMan\GameRoot\Game1\bin\Windows\x86\Debug\FitMi_Research_Puck.dll'. Cannot find or open the PDB file.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Users\Labuser\Documents\MonoGameMothMan\GameRoot\Game1\bin\Windows\x86\Debug\HidSharp.dll'. Cannot find or open the PDB file.
+Exception thrown: 'System.NullReferenceException' in FitMi_Research_Puck.dll
+Exception thrown: 'System.NotImplementedException' in HidSharp.dll
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Users\Labuser\Documents\MonoGameMothMan\GameRoot\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll'. Cannot find or open the PDB file.
+'Game1.exe' (CLR v4.0.30319: Game1.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.InteropServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.InteropServices.dll'. Cannot find or open the PDB file.
+The thread 0x39cc has exited with code 0 (0x0).
+The thread 0x36a0 has exited with code 0 (0x0).
+The thread 0x3098 has exited with code 0 (0x0).
+The thread 0x1c8c has exited with code 0 (0x0).
+The program '[16520] Game1.exe' has exited with code 0 (0x0).

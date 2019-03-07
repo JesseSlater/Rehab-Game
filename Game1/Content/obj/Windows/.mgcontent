@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/alphaheart.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/alphaheart2.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/arrow.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/b1.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/b2.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/b3.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/b4.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/b5.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/b6.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/b7.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/b8.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/BG1.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/BGM.mp3</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/bodytest.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/BonusBG.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/BonusLevelText.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/boxanimation1.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/boxanimation2.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/boxanimation3.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/boxanimation4.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/BoxDestroy.wav</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/clockback.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/Flap.wav</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/Ground2.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/GroundSprite.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/healthblock.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/healthblock2.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/heartinterior.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/heartinterior2.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/Hurt.wav</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/JDbase.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/jdflap.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/jdflap2.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/JDstand.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/jdwalk1.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/jdwalk2.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/Level1BG.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/Level2.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/Level2BG.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/level3.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/level3bg.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/level4.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/level5.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/level6.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/level7.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/level8.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/Level9.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/Mazebg.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/mothbaseimage.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/mothflap.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/mothflap2.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/mothstand.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/mothwalk1.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/mothwalk2.png</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/NonHurt.wav</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/sf.spritefont</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/Step.wav</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/Step2.wav</File>
+    <File>C:/Users/Labuser/Documents/MonoGameMothMan/GameRoot/Game1/Content/TestBG.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
